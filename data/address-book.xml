@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<addressBook>
+  <groups>
+    <group>家人</group>
+    <group>朋友</group>
+    <group>同事</group>
+  </groups>
+  <contacts>
+    <contact id="2cde2708-7f79-42e3-86e8-c451ddb0d073">
+      <name>张三</name>
+      <phone>010-62310001</phone>
+      <mobile>13800001111</mobile>
+      <imType>微信</imType>
+      <imAccount>zhangsan_wx</imAccount>
+      <email>zhangsan@example.com</email>
+      <website>https://zhangsan.blog.com</website>
+      <birthday>1992-05-15</birthday>
+      <photoPath/>
+      <company>北京科技有限公司</company>
+      <homeAddress>北京市海淀区中关村大街1号</homeAddress>
+      <postalCode>100080</postalCode>
+      <notes>技术部工程师，擅长Java开发</notes>
+      <contactGroups>
+        <group>朋友</group>
+        <group>同事</group>
+      </contactGroups>
+    </contact>
+    <contact id="27aedf4d-8a12-4f69-8c78-f74abf8d919a">
+      <name>李丽</name>
+      <phone>021-52340002</phone>
+      <mobile>13900002222</mobile>
+      <imType>QQ</imType>
+      <imAccount>987654321</imAccount>
+      <email>lili@example.com</email>
+      <website>https://lili.design.com</website>
+      <birthday>1995-08-22</birthday>
+      <photoPath/>
+      <company>上海设计工作室</company>
+      <homeAddress>上海市静安区南京西路1888号</homeAddress>
+      <postalCode>200040</postalCode>
+      <notes>UI/UX设计师，爱好摄影和旅行</notes>
+      <contactGroups>
+        <group>朋友</group>
+      </contactGroups>
+    </contact>
+    <contact id="fe8a399e-25ba-4d6b-a4f2-6c79153fc68e">
+      <name>王小明</name>
+      <phone>0755-88660003</phone>
+      <mobile>13600003333</mobile>
+      <imType>微信</imType>
+      <imAccount>wx_wangxm</imAccount>
+      <email>wangxm@example.com</email>
+      <website/>
+      <birthday>1988-12-03</birthday>
+      <photoPath/>
+      <company>深圳创新科技有限公司</company>
+      <homeAddress>深圳市南山区科技园南路88号</homeAddress>
+      <postalCode>518057</postalCode>
+      <notes>项目经理，负责海外市场拓展</notes>
+      <contactGroups>
+        <group>同事</group>
+      </contactGroups>
+    </contact>
+    <contact id="a895ce66-ebc5-40b8-bc7b-2b01386846f9">
+      <name>赵芳</name>
+      <phone>010-88870004</phone>
+      <mobile>13700004444</mobile>
+      <imType>微信</imType>
+      <imAccount>zhaofang_family</imAccount>
+      <email>zhaofang@example.com</email>
+      <website/>
+      <birthday>1965-03-18</birthday>
+      <photoPath/>
+      <company>北京大学附属中学</company>
+      <homeAddress>北京市朝阳区望京花园东区5号楼</homeAddress>
+      <postalCode>100102</postalCode>
+      <notes>母亲，退休教师</notes>
+      <contactGroups>
+        <group>家人</group>
+      </contactGroups>
+    </contact>
+    <contact id="aa1a8e02-c763-4132-af54-daad21a96aca">
+      <name>陈伟</name>
+      <phone>020-33660005</phone>
+      <mobile>13500005555</mobile>
+      <imType>WhatsApp</imType>
+      <imAccount>+8613500005555</imAccount>
+      <email>chenwei@example.com</email>
+      <website>https://chenwei.github.io</website>
+      <birthday>1993-07-09</birthday>
+      <photoPath/>
+      <company>广州开源软件有限公司</company>
+      <homeAddress>广州市天河区体育西路111号</homeAddress>
+      <postalCode>510620</postalCode>
+      <notes>全栈工程师，开源社区活跃贡献者，Github有500+ stars项目</notes>
+      <contactGroups>
+        <group>家人</group>
+        <group>同事</group>
+        <group>朋友</group>
+      </contactGroups>
+    </contact>
+  </contacts>
+</addressBook>
